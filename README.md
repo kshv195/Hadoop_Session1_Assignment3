@@ -1,5 +1,7 @@
 # Hadoop_Session1_Assignment3
 
+In this assignment, I need to perform the given tasks.
+
 Task 1:
 Check whether /user/acadgild directory exists or not in the HDFS.
 If it doesn't exist, then create this.
